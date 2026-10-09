@@ -1,0 +1,18 @@
+body{background-color: rgb(189, 164, 212);
+color: darkblue;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;}
+nav{width: 200px;padding-left: 30px;line-height: 2;}
+.vpravo{float: right;}
+.vlevo{float: left;}
+img{margin-right: 100px ;}
+a:link{color: rgb(33, 7, 150);text-decoration: none;}
+a:visited{color: indigo;text-decoration: none;}
+a:active{color: mediumvioletred;text-decoration: none;}
+a:hover{color: navy;background-color: slateblue;text-decoration: underline;}
+article{width:25% ;float: left;border: thin solid;padding: 30px 5px 0px 5px;border-radius: 10px;margin: 0px 15px 30px 15px;}
